@@ -14,3 +14,9 @@ To do app
 Weather app api used
 
 
+Web DEVELOPMENT PROJECTS
+
+Calculator
+To do app
+
+Weather app api used
